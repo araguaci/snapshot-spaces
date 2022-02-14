@@ -1,6 +1,3 @@
-# snapshot-spaces
-This page intends to give you a brief explanation of what Snapshot is and how it works. It also provides you with all the necessary information to get started.
-
 # Welcome to Snapshot!
 
 This page intends to give you a brief explanation of what Snapshot is and how it works. It also provides you with all the necessary information to get started.
